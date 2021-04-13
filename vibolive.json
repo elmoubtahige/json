@@ -1,5 +1,5 @@
 {
-"facebook":0,
-"interstitial":"intel_key",
-"banner":"banner_key"
+"isFacebook":0,
+"inter":"key",
+"banner":"key"
 }
