@@ -1,10 +1,10 @@
 {
     "networks": {
-        "native": ["facebook"],
-        "banner": ["facebook"],
-        "interstitial": ["facebook"],
-        "nativebanner": ["facebook"],
-        "mediumrectangle": ["facebook"]
+        "native": ["facebook","admob"],
+        "banner": ["facebook","admob"],
+        "interstitial": ["facebook","admob"],
+        "nativebanner": ["facebook","admob"],
+        "mediumrectangle": ["facebook","admob"]
     },
     "facebook": {
         "native": "IMG_16_9_LINK#",
