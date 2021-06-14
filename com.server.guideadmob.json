@@ -1,17 +1,17 @@
 {
     "networks": {
-        "native": ["admob"],
-        "banner": ["admob"],
-        "interstitial": ["admob"],
-        "nativebanner": ["admob"],
-        "mediumrectangle": ["admob"]
+        "native": ["admob","facebook"],
+        "banner": ["admob","facebook"],
+        "interstitial": ["admob","facebook"],
+        "nativebanner": ["admob","facebook"],
+        "mediumrectangle": ["admob","facebook"]
     },
     "facebook": {
-        "native": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-        "banner": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-        "interstitial": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-        "nativebanner": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-        "mediumrectangle": "IMG_16_9_LINK#YOUR_PLACEMENT_ID"
+        "native": "",
+        "banner": "",
+        "interstitial": "",
+        "nativebanner": "",
+        "mediumrectangle": ""
     },
     "admob": {
         "publisher": "pub-3940256099942544",  
