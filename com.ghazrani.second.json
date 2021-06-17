@@ -1,7 +1,10 @@
 {
     "networks": {
+        "native": ["admob","ironsrc"],
         "banner": ["ironsrc","admob"],
-        "interstitial": ["ironsrc","admob"]
+        "interstitial": ["ironsrc","admob"],
+        "nativebanner": ["admob","ironsrc"],
+        "mediumrectangle": ["admob","ironsrc"]
     },
      "admob": {
         "publisher": "pub-3940256099942544",
