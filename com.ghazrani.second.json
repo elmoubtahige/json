@@ -1,10 +1,10 @@
 {
     "networks": {
-        "native": ["ironsrc","admob", "facebook"],
-        "banner": ["ironsrc","admob", "facebook"],
-        "interstitial": ["ironsrc","admob", "facebook"]
-        "nativebanner": ["ironsrc","admob", "facebook"],
-        "mediumrectangle": ["ironsrc","admob","facebook"]
+        "native": ["admob", "facebook", "ironsrc"],
+        "banner": ["admob", "facebook", "ironsrc"],
+        "interstitial": ["admob", "facebook", "ironsrc"],
+        "nativebanner": ["admob", "facebook", "ironsrc"],
+        "mediumrectangle": ["admob", "facebook", "ironsrc"]
     },
     "facebook": {
         "native": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
@@ -24,7 +24,7 @@
         "app": "202711762"
     },
     "ironsrc":{
-        "app": "fd511159"
+        "app": ""
     },
     "content": {
         "tip1": {
