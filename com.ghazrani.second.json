@@ -1,10 +1,10 @@
 {
     "networks": {
-        "native": ["admob", "facebook", "ironsrc"],
-        "banner": ["admob", "facebook", "ironsrc"],
-        "interstitial": ["admob", "facebook", "ironsrc"],
-        "nativebanner": ["admob", "facebook", "ironsrc"],
-        "mediumrectangle": ["admob", "facebook", "ironsrc"]
+        "native": ["ironsrc","admob", "facebook"],
+        "banner": ["ironsrc","admob", "facebook",],
+        "interstitial": ["ironsrc","admob", "facebook",],
+        "nativebanner": ["ironsrc","admob", "facebook",],
+        "mediumrectangle": ["ironsrc","admob","facebook",]
     },
     "facebook": {
         "native": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
