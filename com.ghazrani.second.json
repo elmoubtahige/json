@@ -1,7 +1,14 @@
 {
     "networks": {
-        "banner": ["ironsrc"],
-        "interstitial": ["ironsrc"]
+        "banner": ["ironsrc","admob"],
+        "interstitial": ["ironsrc","admob"]
+    },
+     "admob": {
+        "publisher": "pub-3940256099942544",
+        "banner": "ca-app-pub-3940256099942544/6300978111",
+        "interstitial": "ca-app-pub-3940256099942544/1033173712",
+        "largebanner": "ca-app-pub-3940256099942544/6300978111",
+        "mediumrectangle": "ca-app-pub-3940256099942544/6300978111"
     },
     "startapp": {
         "app": "202711762"
