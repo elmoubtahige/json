@@ -1,10 +1,10 @@
 {
     "networks": {
         "native": ["ironsrc","admob", "facebook"],
-        "banner": ["ironsrc","admob", "facebook",],
-        "interstitial": ["ironsrc"]
-        "nativebanner": ["ironsrc","admob", "facebook",],
-        "mediumrectangle": ["ironsrc","admob","facebook",]
+        "banner": ["ironsrc","admob", "facebook"],
+        "interstitial": ["ironsrc","admob", "facebook"]
+        "nativebanner": ["ironsrc","admob", "facebook"],
+        "mediumrectangle": ["ironsrc","admob","facebook"]
     },
     "facebook": {
         "native": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
