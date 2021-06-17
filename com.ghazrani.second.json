@@ -1,24 +1,7 @@
 {
     "networks": {
-        "native": ["admob", "facebook", "ironsrc"],
-        "banner": ["admob", "facebook", "ironsrc"],
-        "interstitial": ["admob", "facebook", "ironsrc"],
-        "nativebanner": ["admob", "facebook", "ironsrc"],
-        "mediumrectangle": ["admob", "facebook", "ironsrc"]
-    },
-    "facebook": {
-        "native": "",
-        "banner": "",
-        "interstitial": "",
-        "nativebanner": "",
-        "mediumrectangle": ""
-    },
-    "admob": {
-        "publisher": "",
-        "banner": "",
-        "interstitial": "",
-        "largebanner": "",
-        "mediumrectangle": ""
+        "banner": ["ironsrc"],
+        "interstitial": ["ironsrc"]
     },
     "startapp": {
         "app": "202711762"
