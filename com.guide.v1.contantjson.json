@@ -59,9 +59,9 @@
         },
         "about": {
             "article": "Welcome Guide v1",
-            "article 2": "paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 ",
-             "article 3": "paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3,
-             "article 4": "paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3
+            "article_2": "paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 ",
+             "article_3": "paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3,
+             "article_4": "paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3
         }
     }
 }
