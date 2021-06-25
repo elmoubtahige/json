@@ -27,27 +27,33 @@
         "app": ""
     },
     "content": {
-        "tip1": {
+        "guide1": {
             "button":"Guide 1",
             "title": "Title 1",
-            "article": "paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 "
+            "article": "paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 ",
+            
+            "article_2": "paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 ",
+            
+            "article_3": "paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 "
         },
-        "tip2": {
+        "guide2": {
             "button":"Guide 2",
             "title": "Title 2",
-            "article": "paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2"
+            "article": "paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2",
+            
+             "article_2": "paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2"
         },
-        "tip3": {
+        "guide3": {
             "button":"Guide 3",
             "title": "Title 3",
             "article": "paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 "
         },
-        "tip4": {
+        "guide4": {
             "button":"Guide 4",
             "title": "Title 3",
             "article": "paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 "
         },
-        "tip5": {
+        "guide5": {
             "button":"Guide 5",
             "title": "Title 3",
             "article": "paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 "
@@ -59,8 +65,11 @@
         "about": {
             "title": "Welcome Guide v1",
             "article": "Welcome Guide v1",
+            
             "article_2": "paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 ",
+            
              "article_3": "paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3",
+             
              "article_4": "paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3"
         }
     }
