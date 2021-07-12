@@ -1,0 +1,76 @@
+{
+    "networks": {
+        "native": ["admob", "facebook", "ironsrc"],
+        "banner": ["admob", "facebook", "ironsrc"],
+        "interstitial": ["admob", "facebook", "ironsrc"],
+        "nativebanner": ["admob", "facebook", "ironsrc"],
+        "mediumrectangle": ["admob", "facebook", "ironsrc"]
+    },
+    "facebook": {
+        "native": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+        "banner": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+        "interstitial": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+        "nativebanner": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+        "mediumrectangle": "IMG_16_9_LINK#YOUR_PLACEMENT_ID"
+    },
+    "admob": {
+        "publisher": "pub-3940256099942544",
+        "banner": "ca-app-pub-3940256099942544/6300978111",
+        "interstitial": "ca-app-pub-3940256099942544/1033173712",
+        "largebanner": "ca-app-pub-3940256099942544/6300978111",
+        "mediumrectangle": "ca-app-pub-3940256099942544/6300978111"
+    },
+    "startapp": {
+        "app": "202711762"
+    },
+    "ironsrc":{
+        "app": ""
+    },
+    "content": {
+        "guide1": {
+            "button":"Guide 1",
+            "title": "Title 1",
+            "article": "paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 ",
+            
+            "article_2": "paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 ",
+            
+            "article_3": "paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 "
+        },
+        "guide2": {
+            "button":"Guide 2",
+            "title": "Title 2",
+            "article": "paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2",
+            
+             "article_2": "paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2"
+        },
+        "guide3": {
+            "button":"Guide 3",
+            "title": "Title 3",
+            "article": "paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 "
+        },
+        "guide4": {
+            "button":"Guide 4",
+            "title": "Title 3",
+            "article": "paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 "
+        },
+        "guide5": {
+            "button":"Guide 5",
+            "title": "Title 3",
+            "article": "paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 "
+        },
+        "welcome": {
+            "title": "Welcome Guide v1",
+            "article": "paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 "
+        },
+        "about": {
+            "title": "Welcome Guide v1",
+            "article": "Welcome Guide v1",
+            
+            "article_2": "paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 ",
+            
+             "article_3": "paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3",
+             
+             "article_4": "paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3"
+        }
+    }
+}
