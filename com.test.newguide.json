@@ -1,6 +1,11 @@
 {
-"facebook":true,
-"interstitial":"986596501820974_986597135154244",
+"isIron":true,
+"inter":"986596501820974_986597135154244",
 "banner":"key",
-"nativeBanner":"986596501820974_1066305167183440"
+"title1":"title1",
+"guide1":"guide1",
+"title2":"title2",
+"guide2":"guide2",
+"title3":"title3",
+"guide3":"guide3",
 }
