@@ -1,0 +1,29 @@
+{
+    "networks": {
+        "native": ["admob", "facebook", "ironsrc"],
+        "banner": ["admob", "facebook", "ironsrc"],
+        "interstitial": ["admob", "facebook", "ironsrc"],
+        "nativebanner": ["admob", "facebook", "ironsrc"],
+        "mediumrectangle": ["admob", "facebook", "ironsrc"]
+    },
+    "facebook": {
+        "native": "key",
+        "banner": "key",
+        "interstitial": "key",
+        "nativebanner": "key",
+        "mediumrectangle": "key"
+    },
+    "admob": {
+        "publisher": "key",
+        "banner": "key",
+        "interstitial": "key",
+        "largebanner": "key",
+        "mediumrectangle": "key"
+    },
+    "startapp": {
+        "app": ""
+    },
+    "ironsrc":{
+        "app": ""
+    }
+}
