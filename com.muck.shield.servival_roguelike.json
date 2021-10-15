@@ -1,7 +1,7 @@
 {
-"initMAS":0,
-"initIS":"1",
+"initMAS":1,
+"initIS":"0",
 "appkeyIS":"113b3d4fd",
-"showMASBanner":"0",
-"showISBanner":"1" 
+"showMASBanner":"1",
+"showISBanner":"0" 
 }
