@@ -19,7 +19,7 @@
   "BannerType": "iron",
   "InterType": "iron",
   "NativeType": "iron",
-  "IsAdmobON": true,
+  "IsAdmobON": false,
   "IsFacebookON": true,
   "IsIronON": true,
   "IsYandexON": true,
