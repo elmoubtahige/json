@@ -18,7 +18,7 @@
   "UnityBannerUnitId": "Banner_Android",
   "BannerType": "iron",
   "InterType": "Facebook",
-  "NativeType": "iron",
+  "NativeType": "Yandex",
   "IsAdmobON": false,
   "IsFacebookON": true,
   "IsIronON": true,
