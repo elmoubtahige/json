@@ -1,0 +1,61 @@
+{
+  "AppDealKey": "5e259018844b7e434c79ec86e097dab830f6fc34ff603433",
+  "IronKey": "1114a0b95",
+  "StartAppId": "206262019",
+  "AdmobBannerUnitId": "ca-app-pub-3940256099942544/6300978111",
+  "AdmobInterUnitId": "ca-app-pub-3940256099942544/1033173712",
+  "AdmobNativeUnitId": "ca-app-pub-3940256099942544/2247696110",
+  "AdmobRewardUnitId": "ca-app-pub-3940256099942544/5224354917",
+  "AdmobOpenUnitId": "ca-app-pub-3940256099942544/3419835294",
+  "YandexBannerUnitId": "R-M-DEMO-320x50",
+  "YandexInterUnitId": "R-M-DEMO-240x400-context",
+  "YandexRewardUnitId": "R-M-DEMO-rewarded-client-side-rtb",
+  "YandexNativeUnitId": "R-M-DEMO-native-i",
+  "FacebookNativeUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookBannerUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookInterUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "UnityGameID": "4395371",
+  "UnityBannerUnitId": "Banner_Android",
+  "BannerType": "Facebook",
+  "InterType": "Facebook",
+  "NativeType": "Facebook",
+  "IsAdmobON": false,
+  "IsFacebookON": true,
+  "IsIronON": false,
+  "IsYandexON": false,
+  "IsAppoDealON": false,
+  "IsStartAppON": false,
+  "IsUnityON": false,
+  "AppOnPending": false,
+  "GuideImg": "https://images.pexels.com/photos/163036/mario-luigi-yoschi-figures-163036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "Guide": [
+    {
+      "title": "Guide For The .. ",
+      "Content": "thi is guide test. test..."
+    },
+    {
+      "title": "Guide For The .. ",
+      "Content": "thi is guide test. test..."
+    },
+    {
+      "title": "Guide For The .. ",
+      "Content": "thi is guide test. test..."
+    },
+    {
+      "title": "Guide For The .. ",
+      "Content": "thi is guide test. test..."
+    },
+    {
+      "title": "Guide For The .. ",
+      "Content": "thi is guide test. test..."
+    },
+    {
+      "title": "Guide For The .. ",
+      "Content": "thi is guide test. test..."
+    },
+    {
+      "title": "Guide For The .. ",
+      "Content": "thi is guide test. test..."
+    }
+  ]
+}
