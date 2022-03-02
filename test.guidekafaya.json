@@ -93,10 +93,10 @@
   "tips" : [
       {
       "id" : 0,
-      "imageURL" : "",
+      "imageURL" : "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg",
       "state" : "free",
-      "title" : "Step0:",
-      "written" : "written 0."
+      "title" : "test guide",
+      "written" : "1xBet is a professional football statistics and prediction application that can help people who like to bet on football predict matches based on various statistics and odds. Provide real-time scores, betting tips, statistics and the latest results of all football matches around the world"
     },
     {
       "id" : 1,
