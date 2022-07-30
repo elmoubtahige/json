@@ -19,7 +19,7 @@
     },
     "yandex": {
         "native": "R-M-DEMO-interstitial",
-        "banner": "R-M-DEMO-300x50",
+        "banner": "R-M-DEMO-320x50",
         "interstitial": "R-M-DEMO-interstitial"
     },
     "admob": {
